@@ -1,0 +1,1 @@
+mediaid.zip is the database files. extract folder into xampp>mysql>data folder.
